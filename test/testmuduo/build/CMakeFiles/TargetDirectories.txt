@@ -1,0 +1,3 @@
+/home/lyd/chat/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/lyd/chat/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/lyd/chat/testmuduo/build/CMakeFiles/server.dir
